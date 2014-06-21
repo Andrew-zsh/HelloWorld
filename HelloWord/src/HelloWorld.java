@@ -6,6 +6,9 @@ public class HelloWorld {
 		
 		//Add form local
 		System.out.println("Add from local");
+		
+		//Add from web
+		System.out.println("Add from web");
 	}
 
 }
